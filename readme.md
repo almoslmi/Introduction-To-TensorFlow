@@ -14,7 +14,7 @@ Several other technologies that assist in machine learning tasks and data visual
 #### [Setting Up Python Environment](#python-environment)
 #### [Installing Dependencies](#installing-dependencies)
 #### [TensorFlow Basics](#tensorflow-basics)
-#### [Warming Up Wth Linear Regression](#linear-regression)
+#### [Warming Up With Linear Regression](#linear-regression)
 #### [Sentiment Analysis With Recurrent Neural Network](#sentiment-analysis)
 #### [What's Next](#what-next)
 
