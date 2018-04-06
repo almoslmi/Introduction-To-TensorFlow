@@ -195,17 +195,28 @@ This is a toy problem that will introduce basic TensorFlow concepts:
 
 ## Sentiment Analysis with LSTM Recurrent Neural Network
 
-Here we will take a closer look at creating neural networks with TensorFlow. We will create a LSTM (long short-term memory) RNN to perform Sentiment Analysis on a IMDb movie review data set containing 25K movie reviews.
+We will take a closer look at creating neural networks with TensorFlow. We will create a LSTM (long short-term memory) RNN to perform Sentiment Analysis on a IMDb movie review data set containing 25K movie reviews.
 
-1. First
-2. Second
-3. Third
-4. Fourth
-5. Fifth
+Here are a couple articles introducing recurrent networks and LSTMs:
+- [A Beginner’s Guide to Recurrent Networks and LSTMs]
+- [Understanding LSTM Networks]
+
+Below is an outline of what is covered in the [Sentiment Analysis Notebook]
+
+1. Intro of Data Set, RNNs, and LSTMs
+2. Loading Word Vectors
+3. Loading Movie Reviews
+3. Mapping Reviews -> Word Vectors
+4. Splitting Data Into Train / Test Sets
+5. Creating TensorFlow Graph
+6. Defining TensorBoard Summary Operations 
+7. Running Session to Train Model
+8. Saving Model at Checkpoints
+9. Restoring an Old Model
 
 
-
-
+[Understanding LSTM Networks]: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+[A Beginner’s Guide to Recurrent Networks and LSTMs]: https://deeplearning4j.org/lstm.html]
 [Anaconda]: https://conda.io/docs/user-guide/getting-started.html
 [Estimators]: https://www.tensorflow.org/programmers_guide/estimators  
 [Keras]: https://keras.io/  
@@ -222,3 +233,4 @@ Here we will take a closer look at creating neural networks with TensorFlow. We 
 [TensorFlow Release Article]: https://research.googleblog.com/2015/11/tensorflow-googles-latest-machine_9.html  
 [Boston Housing Data]: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html  
 [Linear Regression Notebook]:Linear%20Regression%20TensorFlow.ipynb
+[Sentiment Analysis Notebook]:TensorFlow-Sentiment-Analysis-IMDb-Final.ipynb
