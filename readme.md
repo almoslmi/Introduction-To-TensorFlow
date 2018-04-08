@@ -214,6 +214,18 @@ Below is an outline of what is covered in the [Sentiment Analysis Notebook]
 8. Saving Model at Checkpoints
 9. Restoring an Old Model
 
+---
+---
+
+## Machine Learning with Scikit-Learn and TensorFlow 
+
+This textbook has been extremely helpful in getting started with TensorFlow and includes many tips for practical machine learning and TensorFlow projects: [Machine Learning with Scikit-Learn and TensorFlow]
+
+![Machine Learning with Scikit-Learn and TensorFlow Cover](./ml-w-tensorflow-book-cover.png)
+
+
+
+
 
 [Understanding LSTM Networks]: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 [A Beginner’s Guide to Recurrent Networks and LSTMs]: https://deeplearning4j.org/lstm.html]
@@ -234,3 +246,4 @@ Below is an outline of what is covered in the [Sentiment Analysis Notebook]
 [Boston Housing Data]: http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html  
 [Linear Regression Notebook]:Linear%20Regression%20TensorFlow.ipynb
 [Sentiment Analysis Notebook]:TensorFlow-Sentiment-Analysis-IMDb-Final.ipynb
+[Machine Learning with Scikit-Learn and TensorFlow]: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_1?ie=UTF8&qid=1523219714&sr=8-1&keywords=machine+learning+with+scikitlearn+and+tensorflow
