@@ -221,7 +221,7 @@ Below is an outline of what is covered in the [Sentiment Analysis Notebook]
 
 This textbook has been extremely helpful in getting started with TensorFlow and includes many tips for practical machine learning and TensorFlow projects: [Machine Learning with Scikit-Learn and TensorFlow]
 
-![Machine Learning with Scikit-Learn and TensorFlow Cover](./ml-w-tensorflow-book-cover.png)
+![Machine Learning with Scikit-Learn and TensorFlow Cover](./ml-w-tensorflow-book-cover.jpg)
 
 
 
