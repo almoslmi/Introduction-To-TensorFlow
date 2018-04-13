@@ -1,5 +1,7 @@
 # Introduction to TensorFlow
 
+By Justin Johnson
+
 ---
 
 We will walk through the basics of TensorFlow from start to finish, including implementation details for a Linear Regression model and a LSTM RNN neural network.
